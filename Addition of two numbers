@@ -1,0 +1,21 @@
+#include<iostream.h>
+#include<conio.h>
+
+int main()
+{
+  
+  int a,b,total;
+  
+  clrscr();
+  
+  cout<<"Enter the number:-"<<endl;
+  cin>>a;
+  cout<<"Enter the number:-"<<endl;
+  cin>>b;
+  
+  total = a + b;
+  cout<<"Total a+b is "<<total;
+  
+  return 0;
+  
+ }
