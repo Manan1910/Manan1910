@@ -1,7 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
 
-int main()
+void main()
 {
   
   int a,b,total;
@@ -16,6 +16,6 @@ int main()
   total = a + b;
   cout<<"Total a+b is "<<total;
   
-  return 0;
+  getch();
   
  }
